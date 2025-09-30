@@ -32,9 +32,5 @@ pipeline {
                 }
             }
         }
-    stage('pull and build image'){
-        
-    steps{
-        echo "hello"
-    }
+}
 }
